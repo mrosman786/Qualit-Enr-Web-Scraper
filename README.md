@@ -8,7 +8,7 @@ A web scraper for https://www.qualit-enr.org.
 from qualit_enr.qualit_enr_scraper import QualitScraper
 
 scraper = QualitScraper()
-data = scraper.scrape()
+data = scraper.scrape_region_category(category="installateurs-photovoltaique", region="75")
 ```
 
 ## Configuration
