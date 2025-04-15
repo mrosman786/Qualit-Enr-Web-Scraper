@@ -1,0 +1,442 @@
+2025-04-15 21:09:50 - QualitEnrScraper_qualit-enr - INFO - Initialized scraper for qualit-enr with base URL: https://www.qualit-enr.org
+2025-04-15 21:09:50 - QualitEnrScraper_qualit-enr - INFO - Starting scrape for category: installateurs-photovoltaique, region: 72
+2025-04-15 21:09:50 - QualitEnrScraper_qualit-enr - INFO - Scraping page 1 for installateurs-photovoltaique in region 72
+2025-04-15 21:09:59 - QualitEnrScraper_qualit-enr - INFO - Request #1 to https://www.qualit-enr.org/annuaire/page/1/?type=installateurs-photovoltaique&ville=72&city&lat&lng&loc completed in 9.30s - Status: 200 - Size: 307073 bytes
+2025-04-15 21:09:59 - QualitEnrScraper_qualit-enr - INFO - Found 16 results, estimated 1 pages
+2025-04-15 21:09:59 - QualitEnrScraper_qualit-enr - INFO - Scraping company details from: https://www.qualit-enr.org/entreprises/pae-multiservice/
+2025-04-15 21:10:01 - QualitEnrScraper_qualit-enr - INFO - Request #2 to https://www.qualit-enr.org/entreprises/pae-multiservice/ completed in 1.72s - Status: 200 - Size: 98447 bytes
+2025-04-15 21:10:01 - QualitEnrScraper_qualit-enr - INFO - Saving data to CSV file: data/qualit-enr_output.csv
+2025-04-15 21:10:01 - QualitEnrScraper_qualit-enr - INFO - Scraping company details from: https://www.qualit-enr.org/entreprises/les-compagnons-de-lenergie/
+2025-04-15 21:10:02 - QualitEnrScraper_qualit-enr - INFO - Request #3 to https://www.qualit-enr.org/entreprises/les-compagnons-de-lenergie/ completed in 1.08s - Status: 200 - Size: 101898 bytes
+2025-04-15 21:10:02 - QualitEnrScraper_qualit-enr - INFO - Saving data to CSV file: data/qualit-enr_output.csv
+2025-04-15 21:10:02 - QualitEnrScraper_qualit-enr - INFO - Scraping company details from: https://www.qualit-enr.org/entreprises/sas-etp/
+2025-04-15 21:10:03 - QualitEnrScraper_qualit-enr - INFO - Request #4 to https://www.qualit-enr.org/entreprises/sas-etp/ completed in 1.19s - Status: 200 - Size: 100141 bytes
+2025-04-15 21:10:03 - QualitEnrScraper_qualit-enr - INFO - Saving data to CSV file: data/qualit-enr_output.csv
+2025-04-15 21:10:03 - QualitEnrScraper_qualit-enr - INFO - Scraping company details from: https://www.qualit-enr.org/entreprises/tardif-bertrand/
+2025-04-15 21:10:04 - QualitEnrScraper_qualit-enr - INFO - Request #5 to https://www.qualit-enr.org/entreprises/tardif-bertrand/ completed in 1.03s - Status: 200 - Size: 96880 bytes
+2025-04-15 21:10:04 - QualitEnrScraper_qualit-enr - INFO - Saving data to CSV file: data/qualit-enr_output.csv
+2025-04-15 21:10:04 - QualitEnrScraper_qualit-enr - INFO - Scraping company details from: https://www.qualit-enr.org/entreprises/sarl-tendance-pool-elec/
+2025-04-15 21:10:05 - QualitEnrScraper_qualit-enr - INFO - Request #6 to https://www.qualit-enr.org/entreprises/sarl-tendance-pool-elec/ completed in 1.05s - Status: 200 - Size: 96853 bytes
+2025-04-15 21:10:05 - QualitEnrScraper_qualit-enr - INFO - Saving data to CSV file: data/qualit-enr_output.csv
+2025-04-15 21:10:05 - QualitEnrScraper_qualit-enr - INFO - Scraping company details from: https://www.qualit-enr.org/entreprises/lhermenier/
+2025-04-15 21:10:07 - QualitEnrScraper_qualit-enr - INFO - Request #7 to https://www.qualit-enr.org/entreprises/lhermenier/ completed in 1.51s - Status: 200 - Size: 96717 bytes
+2025-04-15 21:10:07 - QualitEnrScraper_qualit-enr - INFO - Saving data to CSV file: data/qualit-enr_output.csv
+2025-04-15 21:10:07 - QualitEnrScraper_qualit-enr - INFO - Scraping company details from: https://www.qualit-enr.org/entreprises/solewa/
+2025-04-15 21:10:08 - QualitEnrScraper_qualit-enr - INFO - Request #8 to https://www.qualit-enr.org/entreprises/solewa/ completed in 1.12s - Status: 200 - Size: 99991 bytes
+2025-04-15 21:10:08 - QualitEnrScraper_qualit-enr - INFO - Saving data to CSV file: data/qualit-enr_output.csv
+2025-04-15 21:10:08 - QualitEnrScraper_qualit-enr - INFO - Scraping company details from: https://www.qualit-enr.org/entreprises/mcc-solar/
+2025-04-15 21:10:09 - QualitEnrScraper_qualit-enr - INFO - Request #9 to https://www.qualit-enr.org/entreprises/mcc-solar/ completed in 1.09s - Status: 200 - Size: 100332 bytes
+2025-04-15 21:10:09 - QualitEnrScraper_qualit-enr - INFO - Saving data to CSV file: data/qualit-enr_output.csv
+2025-04-15 21:10:09 - QualitEnrScraper_qualit-enr - INFO - Scraping company details from: https://www.qualit-enr.org/entreprises/adelec-sas/
+2025-04-15 21:10:10 - QualitEnrScraper_qualit-enr - INFO - Request #10 to https://www.qualit-enr.org/entreprises/adelec-sas/ completed in 1.18s - Status: 200 - Size: 100905 bytes
+2025-04-15 21:10:11 - QualitEnrScraper_qualit-enr - INFO - Saving data to CSV file: data/qualit-enr_output.csv
+2025-04-15 21:10:11 - QualitEnrScraper_qualit-enr - INFO - Scraping company details from: https://www.qualit-enr.org/entreprises/sarl-sogetec/
+2025-04-15 21:10:12 - QualitEnrScraper_qualit-enr - INFO - Request #11 to https://www.qualit-enr.org/entreprises/sarl-sogetec/ completed in 1.46s - Status: 200 - Size: 103214 bytes
+2025-04-15 21:10:12 - QualitEnrScraper_qualit-enr - INFO - Saving data to CSV file: data/qualit-enr_output.csv
+2025-04-15 21:10:12 - QualitEnrScraper_qualit-enr - INFO - Scraping company details from: https://www.qualit-enr.org/entreprises/sarl-electricite-brossier/
+2025-04-15 21:10:13 - QualitEnrScraper_qualit-enr - INFO - Request #12 to https://www.qualit-enr.org/entreprises/sarl-electricite-brossier/ completed in 0.99s - Status: 200 - Size: 103096 bytes
+2025-04-15 21:10:13 - QualitEnrScraper_qualit-enr - INFO - Saving data to CSV file: data/qualit-enr_output.csv
+2025-04-15 21:10:13 - QualitEnrScraper_qualit-enr - INFO - Scraping company details from: https://www.qualit-enr.org/entreprises/sogetherm/
+2025-04-15 21:10:14 - QualitEnrScraper_qualit-enr - INFO - Request #13 to https://www.qualit-enr.org/entreprises/sogetherm/ completed in 1.22s - Status: 200 - Size: 108564 bytes
+2025-04-15 21:10:14 - QualitEnrScraper_qualit-enr - INFO - Saving data to CSV file: data/qualit-enr_output.csv
+2025-04-15 21:10:14 - QualitEnrScraper_qualit-enr - INFO - Scraping company details from: https://www.qualit-enr.org/entreprises/conseils-dartisans-sas/
+2025-04-15 21:10:15 - QualitEnrScraper_qualit-enr - INFO - Request #14 to https://www.qualit-enr.org/entreprises/conseils-dartisans-sas/ completed in 1.02s - Status: 200 - Size: 100731 bytes
+2025-04-15 21:10:15 - QualitEnrScraper_qualit-enr - INFO - Saving data to CSV file: data/qualit-enr_output.csv
+2025-04-15 21:10:15 - QualitEnrScraper_qualit-enr - INFO - Scraping company details from: https://www.qualit-enr.org/entreprises/oriente-solaire/
+2025-04-15 21:10:17 - QualitEnrScraper_qualit-enr - INFO - Request #15 to https://www.qualit-enr.org/entreprises/oriente-solaire/ completed in 1.29s - Status: 200 - Size: 111617 bytes
+2025-04-15 21:10:17 - QualitEnrScraper_qualit-enr - INFO - Saving data to CSV file: data/qualit-enr_output.csv
+2025-04-15 21:10:17 - QualitEnrScraper_qualit-enr - INFO - Scraping company details from: https://www.qualit-enr.org/entreprises/axiclim/
+2025-04-15 21:10:18 - QualitEnrScraper_qualit-enr - INFO - Request #16 to https://www.qualit-enr.org/entreprises/axiclim/ completed in 1.57s - Status: 200 - Size: 100292 bytes
+2025-04-15 21:10:18 - QualitEnrScraper_qualit-enr - INFO - Saving data to CSV file: data/qualit-enr_output.csv
+2025-04-15 21:10:18 - QualitEnrScraper_qualit-enr - INFO - Scraping company details from: https://www.qualit-enr.org/entreprises/jouvet/
+2025-04-15 21:10:20 - QualitEnrScraper_qualit-enr - INFO - Request #17 to https://www.qualit-enr.org/entreprises/jouvet/ completed in 1.45s - Status: 200 - Size: 102293 bytes
+2025-04-15 21:10:20 - QualitEnrScraper_qualit-enr - INFO - Saving data to CSV file: data/qualit-enr_output.csv
+2025-04-15 21:10:20 - QualitEnrScraper_qualit-enr - INFO - Page 1/1 completed - 16 companies found
+2025-04-15 21:10:20 - QualitEnrScraper_qualit-enr - INFO - Completed scrape for installateurs-photovoltaique/72 - 16 total companies
+2025-04-15 21:10:20 - QualitEnrScraper_qualit-enr - INFO - Starting scrape for category: installateurs-pompe-a-chaleur, region: 72
+2025-04-15 21:10:20 - QualitEnrScraper_qualit-enr - INFO - Scraping page 1 for installateurs-pompe-a-chaleur in region 72
+2025-04-15 21:10:33 - QualitEnrScraper_qualit-enr - INFO - Request #18 to https://www.qualit-enr.org/annuaire/page/1/?type=installateurs-pompe-a-chaleur&ville=72&city&lat&lng&loc completed in 13.53s - Status: 200 - Size: 295634 bytes
+2025-04-15 21:10:33 - QualitEnrScraper_qualit-enr - INFO - Found 109 results, estimated 6 pages
+2025-04-15 21:10:33 - QualitEnrScraper_qualit-enr - INFO - Scraping company details from: https://www.qualit-enr.org/entreprises/sarl-bertin-pascal/
+2025-04-15 21:10:35 - QualitEnrScraper_qualit-enr - INFO - Request #19 to https://www.qualit-enr.org/entreprises/sarl-bertin-pascal/ completed in 1.83s - Status: 200 - Size: 98310 bytes
+2025-04-15 21:10:35 - QualitEnrScraper_qualit-enr - INFO - Saving data to CSV file: data/qualit-enr_output.csv
+2025-04-15 21:10:35 - QualitEnrScraper_qualit-enr - INFO - Scraping company details from: https://www.qualit-enr.org/entreprises/marceaux/
+2025-04-15 21:10:37 - QualitEnrScraper_qualit-enr - INFO - Request #20 to https://www.qualit-enr.org/entreprises/marceaux/ completed in 1.49s - Status: 200 - Size: 100472 bytes
+2025-04-15 21:10:37 - QualitEnrScraper_qualit-enr - INFO - Saving data to CSV file: data/qualit-enr_output.csv
+2025-04-15 21:10:37 - QualitEnrScraper_qualit-enr - INFO - Scraping company details from: https://www.qualit-enr.org/entreprises/sarl-carteixelec/
+2025-04-15 21:10:39 - QualitEnrScraper_qualit-enr - INFO - Request #21 to https://www.qualit-enr.org/entreprises/sarl-carteixelec/ completed in 2.21s - Status: 200 - Size: 97380 bytes
+2025-04-15 21:10:39 - QualitEnrScraper_qualit-enr - INFO - Saving data to CSV file: data/qualit-enr_output.csv
+2025-04-15 21:10:39 - QualitEnrScraper_qualit-enr - INFO - Scraping company details from: https://www.qualit-enr.org/entreprises/ates-energies/
+2025-04-15 21:10:43 - QualitEnrScraper_qualit-enr - INFO - Request #22 to https://www.qualit-enr.org/entreprises/ates-energies/ completed in 3.40s - Status: 200 - Size: 98323 bytes
+2025-04-15 21:10:43 - QualitEnrScraper_qualit-enr - INFO - Saving data to CSV file: data/qualit-enr_output.csv
+2025-04-15 21:10:43 - QualitEnrScraper_qualit-enr - INFO - Scraping company details from: https://www.qualit-enr.org/entreprises/eirl-fouchet-wilfried/
+2025-04-15 21:10:45 - QualitEnrScraper_qualit-enr - INFO - Request #23 to https://www.qualit-enr.org/entreprises/eirl-fouchet-wilfried/ completed in 2.72s - Status: 200 - Size: 98413 bytes
+2025-04-15 21:10:45 - QualitEnrScraper_qualit-enr - INFO - Saving data to CSV file: data/qualit-enr_output.csv
+2025-04-15 21:10:45 - QualitEnrScraper_qualit-enr - INFO - Scraping company details from: https://www.qualit-enr.org/entreprises/sarl-derat/
+2025-04-15 21:10:47 - QualitEnrScraper_qualit-enr - INFO - Request #24 to https://www.qualit-enr.org/entreprises/sarl-derat/ completed in 1.49s - Status: 200 - Size: 98124 bytes
+2025-04-15 21:10:47 - QualitEnrScraper_qualit-enr - INFO - Saving data to CSV file: data/qualit-enr_output.csv
+2025-04-15 21:10:47 - QualitEnrScraper_qualit-enr - INFO - Scraping company details from: https://www.qualit-enr.org/entreprises/yoann-meche/
+2025-04-15 21:10:49 - QualitEnrScraper_qualit-enr - INFO - Request #25 to https://www.qualit-enr.org/entreprises/yoann-meche/ completed in 1.94s - Status: 200 - Size: 97492 bytes
+2025-04-15 21:10:49 - QualitEnrScraper_qualit-enr - INFO - Saving data to CSV file: data/qualit-enr_output.csv
+2025-04-15 21:10:49 - QualitEnrScraper_qualit-enr - INFO - Scraping company details from: https://www.qualit-enr.org/entreprises/loirenergie/
+2025-04-15 21:10:50 - QualitEnrScraper_qualit-enr - INFO - Request #26 to https://www.qualit-enr.org/entreprises/loirenergie/ completed in 1.55s - Status: 200 - Size: 98179 bytes
+2025-04-15 21:10:50 - QualitEnrScraper_qualit-enr - INFO - Saving data to CSV file: data/qualit-enr_output.csv
+2025-04-15 21:10:50 - QualitEnrScraper_qualit-enr - INFO - Scraping company details from: https://www.qualit-enr.org/entreprises/acqua-france-energy/
+2025-04-15 21:10:52 - QualitEnrScraper_qualit-enr - INFO - Request #27 to https://www.qualit-enr.org/entreprises/acqua-france-energy/ completed in 1.44s - Status: 200 - Size: 100209 bytes
+2025-04-15 21:10:52 - QualitEnrScraper_qualit-enr - INFO - Saving data to CSV file: data/qualit-enr_output.csv
+2025-04-15 21:10:52 - QualitEnrScraper_qualit-enr - INFO - Scraping company details from: https://www.qualit-enr.org/entreprises/grison-jlj/
+2025-04-15 21:10:53 - QualitEnrScraper_qualit-enr - INFO - Request #28 to https://www.qualit-enr.org/entreprises/grison-jlj/ completed in 1.48s - Status: 200 - Size: 102328 bytes
+2025-04-15 21:10:53 - QualitEnrScraper_qualit-enr - INFO - Saving data to CSV file: data/qualit-enr_output.csv
+2025-04-15 21:10:53 - QualitEnrScraper_qualit-enr - INFO - Scraping company details from: https://www.qualit-enr.org/entreprises/sarl-vincent-lejeune/
+2025-04-15 21:10:55 - QualitEnrScraper_qualit-enr - INFO - Request #29 to https://www.qualit-enr.org/entreprises/sarl-vincent-lejeune/ completed in 1.44s - Status: 200 - Size: 100492 bytes
+2025-04-15 21:10:55 - QualitEnrScraper_qualit-enr - INFO - Saving data to CSV file: data/qualit-enr_output.csv
+2025-04-15 21:10:55 - QualitEnrScraper_qualit-enr - INFO - Scraping company details from: https://www.qualit-enr.org/entreprises/eurl-lebreton-jerome/
+2025-04-15 21:10:56 - QualitEnrScraper_qualit-enr - INFO - Request #30 to https://www.qualit-enr.org/entreprises/eurl-lebreton-jerome/ completed in 1.30s - Status: 200 - Size: 97811 bytes
+2025-04-15 21:10:56 - QualitEnrScraper_qualit-enr - INFO - Saving data to CSV file: data/qualit-enr_output.csv
+2025-04-15 21:10:56 - QualitEnrScraper_qualit-enr - INFO - Scraping company details from: https://www.qualit-enr.org/entreprises/thermie-chauffe/
+2025-04-15 21:10:58 - QualitEnrScraper_qualit-enr - INFO - Request #31 to https://www.qualit-enr.org/entreprises/thermie-chauffe/ completed in 1.28s - Status: 200 - Size: 99800 bytes
+2025-04-15 21:10:58 - QualitEnrScraper_qualit-enr - INFO - Saving data to CSV file: data/qualit-enr_output.csv
+2025-04-15 21:10:58 - QualitEnrScraper_qualit-enr - INFO - Scraping company details from: https://www.qualit-enr.org/entreprises/vp-haux/
+2025-04-15 21:10:59 - QualitEnrScraper_qualit-enr - INFO - Request #32 to https://www.qualit-enr.org/entreprises/vp-haux/ completed in 1.40s - Status: 200 - Size: 97175 bytes
+2025-04-15 21:10:59 - QualitEnrScraper_qualit-enr - INFO - Saving data to CSV file: data/qualit-enr_output.csv
+2025-04-15 21:10:59 - QualitEnrScraper_qualit-enr - INFO - Scraping company details from: https://www.qualit-enr.org/entreprises/epc-energie-conseil/
+2025-04-15 21:11:01 - QualitEnrScraper_qualit-enr - INFO - Request #33 to https://www.qualit-enr.org/entreprises/epc-energie-conseil/ completed in 1.51s - Status: 200 - Size: 98476 bytes
+2025-04-15 21:11:01 - QualitEnrScraper_qualit-enr - INFO - Saving data to CSV file: data/qualit-enr_output.csv
+2025-04-15 21:11:01 - QualitEnrScraper_qualit-enr - INFO - Scraping company details from: https://www.qualit-enr.org/entreprises/ei-benoit-pioge/
+2025-04-15 21:11:02 - QualitEnrScraper_qualit-enr - INFO - Request #34 to https://www.qualit-enr.org/entreprises/ei-benoit-pioge/ completed in 1.46s - Status: 200 - Size: 97872 bytes
+2025-04-15 21:11:02 - QualitEnrScraper_qualit-enr - INFO - Saving data to CSV file: data/qualit-enr_output.csv
+2025-04-15 21:11:02 - QualitEnrScraper_qualit-enr - INFO - Scraping company details from: https://www.qualit-enr.org/entreprises/europe-energie-events/
+2025-04-15 21:11:04 - QualitEnrScraper_qualit-enr - INFO - Request #35 to https://www.qualit-enr.org/entreprises/europe-energie-events/ completed in 1.61s - Status: 200 - Size: 98500 bytes
+2025-04-15 21:11:04 - QualitEnrScraper_qualit-enr - INFO - Saving data to CSV file: data/qualit-enr_output.csv
+2025-04-15 21:11:04 - QualitEnrScraper_qualit-enr - INFO - Scraping company details from: https://www.qualit-enr.org/entreprises/les-compagnons-de-lenergie/
+2025-04-15 21:11:05 - QualitEnrScraper_qualit-enr - INFO - Request #36 to https://www.qualit-enr.org/entreprises/les-compagnons-de-lenergie/ completed in 1.32s - Status: 200 - Size: 101898 bytes
+2025-04-15 21:11:05 - QualitEnrScraper_qualit-enr - INFO - Saving data to CSV file: data/qualit-enr_output.csv
+2025-04-15 21:11:05 - QualitEnrScraper_qualit-enr - INFO - Scraping company details from: https://www.qualit-enr.org/entreprises/sarl-cormier-penard/
+2025-04-15 21:11:07 - QualitEnrScraper_qualit-enr - INFO - Request #37 to https://www.qualit-enr.org/entreprises/sarl-cormier-penard/ completed in 1.25s - Status: 200 - Size: 98454 bytes
+2025-04-15 21:11:07 - QualitEnrScraper_qualit-enr - INFO - Saving data to CSV file: data/qualit-enr_output.csv
+2025-04-15 21:11:07 - QualitEnrScraper_qualit-enr - INFO - Scraping company details from: https://www.qualit-enr.org/entreprises/fce/
+2025-04-15 21:11:08 - QualitEnrScraper_qualit-enr - INFO - Request #38 to https://www.qualit-enr.org/entreprises/fce/ completed in 1.42s - Status: 200 - Size: 96898 bytes
+2025-04-15 21:11:08 - QualitEnrScraper_qualit-enr - INFO - Saving data to CSV file: data/qualit-enr_output.csv
+2025-04-15 21:11:08 - QualitEnrScraper_qualit-enr - INFO - Page 1/6 completed - 20 companies found
+2025-04-15 21:11:08 - QualitEnrScraper_qualit-enr - INFO - Scraping page 2 for installateurs-pompe-a-chaleur in region 72
+2025-04-15 21:11:26 - QualitEnrScraper_qualit-enr - INFO - Request #39 to https://www.qualit-enr.org/annuaire/page/2/?type=installateurs-pompe-a-chaleur&ville=72&city&lat&lng&loc completed in 18.02s - Status: 200 - Size: 290429 bytes
+2025-04-15 21:11:26 - QualitEnrScraper_qualit-enr - INFO - Scraping company details from: https://www.qualit-enr.org/entreprises/mpc-energie/
+2025-04-15 21:11:28 - QualitEnrScraper_qualit-enr - INFO - Request #40 to https://www.qualit-enr.org/entreprises/mpc-energie/ completed in 1.53s - Status: 200 - Size: 97501 bytes
+2025-04-15 21:11:28 - QualitEnrScraper_qualit-enr - INFO - Saving data to CSV file: data/qualit-enr_output.csv
+2025-04-15 21:11:28 - QualitEnrScraper_qualit-enr - INFO - Scraping company details from: https://www.qualit-enr.org/entreprises/brichet-vincent/
+2025-04-15 21:11:29 - QualitEnrScraper_qualit-enr - INFO - Request #41 to https://www.qualit-enr.org/entreprises/brichet-vincent/ completed in 1.59s - Status: 200 - Size: 98385 bytes
+2025-04-15 21:11:29 - QualitEnrScraper_qualit-enr - INFO - Saving data to CSV file: data/qualit-enr_output.csv
+2025-04-15 21:11:29 - QualitEnrScraper_qualit-enr - INFO - Scraping company details from: https://www.qualit-enr.org/entreprises/sarl-balnera-thermie/
+2025-04-15 21:11:31 - QualitEnrScraper_qualit-enr - INFO - Request #42 to https://www.qualit-enr.org/entreprises/sarl-balnera-thermie/ completed in 1.85s - Status: 200 - Size: 101347 bytes
+2025-04-15 21:11:31 - QualitEnrScraper_qualit-enr - INFO - Saving data to CSV file: data/qualit-enr_output.csv
+2025-04-15 21:11:31 - QualitEnrScraper_qualit-enr - INFO - Scraping company details from: https://www.qualit-enr.org/entreprises/sarl-lortie-christophe/
+2025-04-15 21:11:33 - QualitEnrScraper_qualit-enr - INFO - Request #43 to https://www.qualit-enr.org/entreprises/sarl-lortie-christophe/ completed in 1.52s - Status: 200 - Size: 102042 bytes
+2025-04-15 21:11:33 - QualitEnrScraper_qualit-enr - INFO - Saving data to CSV file: data/qualit-enr_output.csv
+2025-04-15 21:11:33 - QualitEnrScraper_qualit-enr - INFO - Scraping company details from: https://www.qualit-enr.org/entreprises/pcms/
+2025-04-15 21:11:34 - QualitEnrScraper_qualit-enr - INFO - Request #44 to https://www.qualit-enr.org/entreprises/pcms/ completed in 1.43s - Status: 200 - Size: 97739 bytes
+2025-04-15 21:11:34 - QualitEnrScraper_qualit-enr - INFO - Saving data to CSV file: data/qualit-enr_output.csv
+2025-04-15 21:11:34 - QualitEnrScraper_qualit-enr - INFO - Scraping company details from: https://www.qualit-enr.org/entreprises/romain-guerin/
+2025-04-15 21:11:36 - QualitEnrScraper_qualit-enr - INFO - Request #45 to https://www.qualit-enr.org/entreprises/romain-guerin/ completed in 1.51s - Status: 200 - Size: 98317 bytes
+2025-04-15 21:11:36 - QualitEnrScraper_qualit-enr - INFO - Saving data to CSV file: data/qualit-enr_output.csv
+2025-04-15 21:11:36 - QualitEnrScraper_qualit-enr - INFO - Scraping company details from: https://www.qualit-enr.org/entreprises/morlot-plomberie-chauffage/
+2025-04-15 21:11:37 - QualitEnrScraper_qualit-enr - INFO - Request #46 to https://www.qualit-enr.org/entreprises/morlot-plomberie-chauffage/ completed in 1.52s - Status: 200 - Size: 99104 bytes
+2025-04-15 21:11:37 - QualitEnrScraper_qualit-enr - INFO - Saving data to CSV file: data/qualit-enr_output.csv
+2025-04-15 21:11:38 - QualitEnrScraper_qualit-enr - INFO - Scraping company details from: https://www.qualit-enr.org/entreprises/plomberie-pruniere/
+2025-04-15 21:11:39 - QualitEnrScraper_qualit-enr - INFO - Request #47 to https://www.qualit-enr.org/entreprises/plomberie-pruniere/ completed in 1.35s - Status: 200 - Size: 98547 bytes
+2025-04-15 21:11:39 - QualitEnrScraper_qualit-enr - INFO - Saving data to CSV file: data/qualit-enr_output.csv
+2025-04-15 21:11:39 - QualitEnrScraper_qualit-enr - INFO - Scraping company details from: https://www.qualit-enr.org/entreprises/sasu-hameau/
+2025-04-15 21:11:40 - QualitEnrScraper_qualit-enr - INFO - Request #48 to https://www.qualit-enr.org/entreprises/sasu-hameau/ completed in 1.44s - Status: 200 - Size: 98306 bytes
+2025-04-15 21:11:40 - QualitEnrScraper_qualit-enr - INFO - Saving data to CSV file: data/qualit-enr_output.csv
+2025-04-15 21:11:40 - QualitEnrScraper_qualit-enr - INFO - Scraping company details from: https://www.qualit-enr.org/entreprises/a2mcf/
+2025-04-15 21:11:42 - QualitEnrScraper_qualit-enr - INFO - Request #49 to https://www.qualit-enr.org/entreprises/a2mcf/ completed in 1.44s - Status: 200 - Size: 98152 bytes
+2025-04-15 21:11:42 - QualitEnrScraper_qualit-enr - INFO - Saving data to CSV file: data/qualit-enr_output.csv
+2025-04-15 21:11:42 - QualitEnrScraper_qualit-enr - INFO - Scraping company details from: https://www.qualit-enr.org/entreprises/soluouest/
+2025-04-15 21:11:44 - QualitEnrScraper_qualit-enr - INFO - Request #50 to https://www.qualit-enr.org/entreprises/soluouest/ completed in 2.50s - Status: 200 - Size: 97476 bytes
+2025-04-15 21:11:44 - QualitEnrScraper_qualit-enr - INFO - Saving data to CSV file: data/qualit-enr_output.csv
+2025-04-15 21:11:44 - QualitEnrScraper_qualit-enr - INFO - Scraping company details from: https://www.qualit-enr.org/entreprises/as-plomberie-2/
+2025-04-15 21:11:46 - QualitEnrScraper_qualit-enr - INFO - Request #51 to https://www.qualit-enr.org/entreprises/as-plomberie-2/ completed in 1.45s - Status: 200 - Size: 97572 bytes
+2025-04-15 21:11:46 - QualitEnrScraper_qualit-enr - INFO - Saving data to CSV file: data/qualit-enr_output.csv
+2025-04-15 21:11:46 - QualitEnrScraper_qualit-enr - INFO - Scraping company details from: https://www.qualit-enr.org/entreprises/lenoir-fabien/
+2025-04-15 21:11:47 - QualitEnrScraper_qualit-enr - INFO - Request #52 to https://www.qualit-enr.org/entreprises/lenoir-fabien/ completed in 1.38s - Status: 200 - Size: 98354 bytes
+2025-04-15 21:11:47 - QualitEnrScraper_qualit-enr - INFO - Saving data to CSV file: data/qualit-enr_output.csv
+2025-04-15 21:11:47 - QualitEnrScraper_qualit-enr - INFO - Scraping company details from: https://www.qualit-enr.org/entreprises/sas-cepen/
+2025-04-15 21:11:49 - QualitEnrScraper_qualit-enr - INFO - Request #53 to https://www.qualit-enr.org/entreprises/sas-cepen/ completed in 1.24s - Status: 200 - Size: 100962 bytes
+2025-04-15 21:11:49 - QualitEnrScraper_qualit-enr - INFO - Saving data to CSV file: data/qualit-enr_output.csv
+2025-04-15 21:11:49 - QualitEnrScraper_qualit-enr - INFO - Scraping company details from: https://www.qualit-enr.org/entreprises/cj-batimans/
+2025-04-15 21:11:50 - QualitEnrScraper_qualit-enr - INFO - Request #54 to https://www.qualit-enr.org/entreprises/cj-batimans/ completed in 1.32s - Status: 200 - Size: 97668 bytes
+2025-04-15 21:11:50 - QualitEnrScraper_qualit-enr - INFO - Saving data to CSV file: data/qualit-enr_output.csv
+2025-04-15 21:11:50 - QualitEnrScraper_qualit-enr - INFO - Scraping company details from: https://www.qualit-enr.org/entreprises/monsieur-jonathan-houtin/
+2025-04-15 21:11:51 - QualitEnrScraper_qualit-enr - INFO - Request #55 to https://www.qualit-enr.org/entreprises/monsieur-jonathan-houtin/ completed in 1.41s - Status: 200 - Size: 97794 bytes
+2025-04-15 21:11:51 - QualitEnrScraper_qualit-enr - INFO - Saving data to CSV file: data/qualit-enr_output.csv
+2025-04-15 21:11:52 - QualitEnrScraper_qualit-enr - INFO - Scraping company details from: https://www.qualit-enr.org/entreprises/sol-air-pac/
+2025-04-15 21:11:53 - QualitEnrScraper_qualit-enr - INFO - Request #56 to https://www.qualit-enr.org/entreprises/sol-air-pac/ completed in 1.54s - Status: 200 - Size: 99494 bytes
+2025-04-15 21:11:53 - QualitEnrScraper_qualit-enr - INFO - Saving data to CSV file: data/qualit-enr_output.csv
+2025-04-15 21:11:53 - QualitEnrScraper_qualit-enr - INFO - Scraping company details from: https://www.qualit-enr.org/entreprises/houdayer/
+2025-04-15 21:11:55 - QualitEnrScraper_qualit-enr - INFO - Request #57 to https://www.qualit-enr.org/entreprises/houdayer/ completed in 1.41s - Status: 200 - Size: 97456 bytes
+2025-04-15 21:11:55 - QualitEnrScraper_qualit-enr - INFO - Saving data to CSV file: data/qualit-enr_output.csv
+2025-04-15 21:11:55 - QualitEnrScraper_qualit-enr - INFO - Scraping company details from: https://www.qualit-enr.org/entreprises/hfc-72/
+2025-04-15 21:11:56 - QualitEnrScraper_qualit-enr - INFO - Request #58 to https://www.qualit-enr.org/entreprises/hfc-72/ completed in 1.58s - Status: 200 - Size: 98171 bytes
+2025-04-15 21:11:56 - QualitEnrScraper_qualit-enr - INFO - Saving data to CSV file: data/qualit-enr_output.csv
+2025-04-15 21:11:56 - QualitEnrScraper_qualit-enr - INFO - Scraping company details from: https://www.qualit-enr.org/entreprises/strategie-energetique/
+2025-04-15 21:11:58 - QualitEnrScraper_qualit-enr - INFO - Request #59 to https://www.qualit-enr.org/entreprises/strategie-energetique/ completed in 1.45s - Status: 200 - Size: 98513 bytes
+2025-04-15 21:11:58 - QualitEnrScraper_qualit-enr - INFO - Saving data to CSV file: data/qualit-enr_output.csv
+2025-04-15 21:11:58 - QualitEnrScraper_qualit-enr - INFO - Page 2/1 completed - 20 companies found
+2025-04-15 21:11:58 - QualitEnrScraper_qualit-enr - INFO - Completed scrape for installateurs-pompe-a-chaleur/72 - 40 total companies
+2025-04-15 21:11:58 - QualitEnrScraper_qualit-enr - INFO - Starting scrape for category: installateurs-photovoltaique, region: 75
+2025-04-15 21:11:58 - QualitEnrScraper_qualit-enr - INFO - Scraping page 1 for installateurs-photovoltaique in region 75
+2025-04-15 21:12:20 - QualitEnrScraper_qualit-enr - INFO - Request #60 to https://www.qualit-enr.org/annuaire/page/1/?type=installateurs-photovoltaique&ville=75&city&lat&lng&loc completed in 21.99s - Status: 200 - Size: 277157 bytes
+2025-04-15 21:12:20 - QualitEnrScraper_qualit-enr - INFO - Found 66 results, estimated 4 pages
+2025-04-15 21:12:20 - QualitEnrScraper_qualit-enr - INFO - Scraping company details from: https://www.qualit-enr.org/entreprises/hycargo/
+2025-04-15 21:12:24 - QualitEnrScraper_qualit-enr - INFO - Request #61 to https://www.qualit-enr.org/entreprises/hycargo/ completed in 3.80s - Status: 200 - Size: 96502 bytes
+2025-04-15 21:12:24 - QualitEnrScraper_qualit-enr - INFO - Saving data to CSV file: data/qualit-enr_output.csv
+2025-04-15 21:12:24 - QualitEnrScraper_qualit-enr - INFO - Scraping company details from: https://www.qualit-enr.org/entreprises/energum/
+2025-04-15 21:12:31 - QualitEnrScraper_qualit-enr - INFO - Request #62 to https://www.qualit-enr.org/entreprises/energum/ completed in 7.14s - Status: 200 - Size: 96507 bytes
+2025-04-15 21:12:31 - QualitEnrScraper_qualit-enr - INFO - Saving data to CSV file: data/qualit-enr_output.csv
+2025-04-15 21:12:31 - QualitEnrScraper_qualit-enr - INFO - Scraping company details from: https://www.qualit-enr.org/entreprises/zalman-g/
+2025-04-15 21:12:33 - QualitEnrScraper_qualit-enr - INFO - Request #63 to https://www.qualit-enr.org/entreprises/zalman-g/ completed in 2.51s - Status: 200 - Size: 97217 bytes
+2025-04-15 21:12:33 - QualitEnrScraper_qualit-enr - INFO - Saving data to CSV file: data/qualit-enr_output.csv
+2025-04-15 21:12:33 - QualitEnrScraper_qualit-enr - INFO - Scraping company details from: https://www.qualit-enr.org/entreprises/as-sunergy/
+2025-04-15 21:12:35 - QualitEnrScraper_qualit-enr - INFO - Request #64 to https://www.qualit-enr.org/entreprises/as-sunergy/ completed in 1.52s - Status: 200 - Size: 96568 bytes
+2025-04-15 21:12:35 - QualitEnrScraper_qualit-enr - INFO - Saving data to CSV file: data/qualit-enr_output.csv
+2025-04-15 21:12:35 - QualitEnrScraper_qualit-enr - INFO - Scraping company details from: https://www.qualit-enr.org/entreprises/bdi-group-france/
+2025-04-15 21:12:36 - QualitEnrScraper_qualit-enr - INFO - Request #65 to https://www.qualit-enr.org/entreprises/bdi-group-france/ completed in 1.48s - Status: 200 - Size: 96698 bytes
+2025-04-15 21:12:37 - QualitEnrScraper_qualit-enr - INFO - Saving data to CSV file: data/qualit-enr_output.csv
+2025-04-15 21:12:37 - QualitEnrScraper_qualit-enr - INFO - Scraping company details from: https://www.qualit-enr.org/entreprises/eco-2-2/
+2025-04-15 21:12:38 - QualitEnrScraper_qualit-enr - INFO - Request #66 to https://www.qualit-enr.org/entreprises/eco-2-2/ completed in 1.40s - Status: 200 - Size: 96354 bytes
+2025-04-15 21:12:38 - QualitEnrScraper_qualit-enr - INFO - Saving data to CSV file: data/qualit-enr_output.csv
+2025-04-15 21:12:38 - QualitEnrScraper_qualit-enr - INFO - Scraping company details from: https://www.qualit-enr.org/entreprises/connecting-technology/
+2025-04-15 21:12:39 - QualitEnrScraper_qualit-enr - INFO - Request #67 to https://www.qualit-enr.org/entreprises/connecting-technology/ completed in 1.49s - Status: 200 - Size: 96835 bytes
+2025-04-15 21:12:40 - QualitEnrScraper_qualit-enr - INFO - Saving data to CSV file: data/qualit-enr_output.csv
+2025-04-15 21:12:40 - QualitEnrScraper_qualit-enr - INFO - Scraping company details from: https://www.qualit-enr.org/entreprises/360-energy/
+2025-04-15 21:12:41 - QualitEnrScraper_qualit-enr - INFO - Request #68 to https://www.qualit-enr.org/entreprises/360-energy/ completed in 1.51s - Status: 200 - Size: 97375 bytes
+2025-04-15 21:12:41 - QualitEnrScraper_qualit-enr - INFO - Saving data to CSV file: data/qualit-enr_output.csv
+2025-04-15 21:12:41 - QualitEnrScraper_qualit-enr - INFO - Scraping company details from: https://www.qualit-enr.org/entreprises/excellence-btp-sasu/
+2025-04-15 21:12:42 - QualitEnrScraper_qualit-enr - INFO - Request #69 to https://www.qualit-enr.org/entreprises/excellence-btp-sasu/ completed in 1.29s - Status: 200 - Size: 96769 bytes
+2025-04-15 21:12:42 - QualitEnrScraper_qualit-enr - INFO - Saving data to CSV file: data/qualit-enr_output.csv
+2025-04-15 21:12:42 - QualitEnrScraper_qualit-enr - INFO - Scraping company details from: https://www.qualit-enr.org/entreprises/energie-plus-2/
+2025-04-15 21:12:44 - QualitEnrScraper_qualit-enr - INFO - Request #70 to https://www.qualit-enr.org/entreprises/energie-plus-2/ completed in 1.34s - Status: 200 - Size: 104652 bytes
+2025-04-15 21:12:44 - QualitEnrScraper_qualit-enr - INFO - Saving data to CSV file: data/qualit-enr_output.csv
+2025-04-15 21:12:44 - QualitEnrScraper_qualit-enr - INFO - Scraping company details from: https://www.qualit-enr.org/entreprises/ecowave/
+2025-04-15 21:12:45 - QualitEnrScraper_qualit-enr - INFO - Request #71 to https://www.qualit-enr.org/entreprises/ecowave/ completed in 1.37s - Status: 200 - Size: 102178 bytes
+2025-04-15 21:12:45 - QualitEnrScraper_qualit-enr - INFO - Saving data to CSV file: data/qualit-enr_output.csv
+2025-04-15 21:12:45 - QualitEnrScraper_qualit-enr - INFO - Scraping company details from: https://www.qualit-enr.org/entreprises/gns-energie/
+2025-04-15 21:12:47 - QualitEnrScraper_qualit-enr - INFO - Request #72 to https://www.qualit-enr.org/entreprises/gns-energie/ completed in 1.43s - Status: 200 - Size: 99503 bytes
+2025-04-15 21:12:47 - QualitEnrScraper_qualit-enr - INFO - Saving data to CSV file: data/qualit-enr_output.csv
+2025-04-15 21:12:47 - QualitEnrScraper_qualit-enr - INFO - Scraping company details from: https://www.qualit-enr.org/entreprises/tout-service-telecom/
+2025-04-15 21:12:48 - QualitEnrScraper_qualit-enr - INFO - Request #73 to https://www.qualit-enr.org/entreprises/tout-service-telecom/ completed in 1.63s - Status: 200 - Size: 96907 bytes
+2025-04-15 21:12:48 - QualitEnrScraper_qualit-enr - INFO - Saving data to CSV file: data/qualit-enr_output.csv
+2025-04-15 21:12:48 - QualitEnrScraper_qualit-enr - INFO - Scraping company details from: https://www.qualit-enr.org/entreprises/renostart/
+2025-04-15 21:12:50 - QualitEnrScraper_qualit-enr - INFO - Request #74 to https://www.qualit-enr.org/entreprises/renostart/ completed in 1.74s - Status: 200 - Size: 99459 bytes
+2025-04-15 21:12:50 - QualitEnrScraper_qualit-enr - INFO - Saving data to CSV file: data/qualit-enr_output.csv
+2025-04-15 21:12:50 - QualitEnrScraper_qualit-enr - INFO - Scraping company details from: https://www.qualit-enr.org/entreprises/pac-eco-habitat/
+2025-04-15 21:12:52 - QualitEnrScraper_qualit-enr - INFO - Request #75 to https://www.qualit-enr.org/entreprises/pac-eco-habitat/ completed in 1.40s - Status: 200 - Size: 99466 bytes
+2025-04-15 21:12:52 - QualitEnrScraper_qualit-enr - INFO - Saving data to CSV file: data/qualit-enr_output.csv
+2025-04-15 21:12:52 - QualitEnrScraper_qualit-enr - INFO - Scraping company details from: https://www.qualit-enr.org/entreprises/groupe-batiso/
+2025-04-15 21:12:53 - QualitEnrScraper_qualit-enr - INFO - Request #76 to https://www.qualit-enr.org/entreprises/groupe-batiso/ completed in 1.86s - Status: 200 - Size: 96641 bytes
+2025-04-15 21:12:54 - QualitEnrScraper_qualit-enr - INFO - Saving data to CSV file: data/qualit-enr_output.csv
+2025-04-15 21:12:54 - QualitEnrScraper_qualit-enr - INFO - Scraping company details from: https://www.qualit-enr.org/entreprises/l-t-ecologie/
+2025-04-15 21:12:55 - QualitEnrScraper_qualit-enr - INFO - Request #77 to https://www.qualit-enr.org/entreprises/l-t-ecologie/ completed in 1.84s - Status: 200 - Size: 96740 bytes
+2025-04-15 21:12:55 - QualitEnrScraper_qualit-enr - INFO - Saving data to CSV file: data/qualit-enr_output.csv
+2025-04-15 21:12:55 - QualitEnrScraper_qualit-enr - INFO - Scraping company details from: https://www.qualit-enr.org/entreprises/guestup/
+2025-04-15 21:12:57 - QualitEnrScraper_qualit-enr - INFO - Request #78 to https://www.qualit-enr.org/entreprises/guestup/ completed in 1.54s - Status: 200 - Size: 105787 bytes
+2025-04-15 21:12:57 - QualitEnrScraper_qualit-enr - INFO - Saving data to CSV file: data/qualit-enr_output.csv
+2025-04-15 21:12:57 - QualitEnrScraper_qualit-enr - INFO - Scraping company details from: https://www.qualit-enr.org/entreprises/gte-company/
+2025-04-15 21:12:59 - QualitEnrScraper_qualit-enr - INFO - Request #79 to https://www.qualit-enr.org/entreprises/gte-company/ completed in 1.58s - Status: 200 - Size: 96717 bytes
+2025-04-15 21:12:59 - QualitEnrScraper_qualit-enr - INFO - Saving data to CSV file: data/qualit-enr_output.csv
+2025-04-15 21:12:59 - QualitEnrScraper_qualit-enr - INFO - Scraping company details from: https://www.qualit-enr.org/entreprises/e-nair/
+2025-04-15 21:13:01 - QualitEnrScraper_qualit-enr - INFO - Request #80 to https://www.qualit-enr.org/entreprises/e-nair/ completed in 1.92s - Status: 200 - Size: 103431 bytes
+2025-04-15 21:13:01 - QualitEnrScraper_qualit-enr - INFO - Saving data to CSV file: data/qualit-enr_output.csv
+2025-04-15 21:13:01 - QualitEnrScraper_qualit-enr - INFO - Page 1/4 completed - 20 companies found
+2025-04-15 21:13:01 - QualitEnrScraper_qualit-enr - INFO - Scraping page 2 for installateurs-photovoltaique in region 75
+2025-04-15 21:13:20 - QualitEnrScraper_qualit-enr - INFO - Request #81 to https://www.qualit-enr.org/annuaire/page/2/?type=installateurs-photovoltaique&ville=75&city&lat&lng&loc completed in 19.09s - Status: 200 - Size: 298787 bytes
+2025-04-15 21:13:20 - QualitEnrScraper_qualit-enr - INFO - Scraping company details from: https://www.qualit-enr.org/entreprises/reno-plus/
+2025-04-15 21:13:21 - QualitEnrScraper_qualit-enr - INFO - Request #82 to https://www.qualit-enr.org/entreprises/reno-plus/ completed in 1.56s - Status: 200 - Size: 104327 bytes
+2025-04-15 21:13:21 - QualitEnrScraper_qualit-enr - INFO - Saving data to CSV file: data/qualit-enr_output.csv
+2025-04-15 21:13:21 - QualitEnrScraper_qualit-enr - INFO - Scraping company details from: https://www.qualit-enr.org/entreprises/octopus-energy-services-france/
+2025-04-15 21:13:23 - QualitEnrScraper_qualit-enr - INFO - Request #83 to https://www.qualit-enr.org/entreprises/octopus-energy-services-france/ completed in 1.35s - Status: 200 - Size: 99874 bytes
+2025-04-15 21:13:23 - QualitEnrScraper_qualit-enr - INFO - Saving data to CSV file: data/qualit-enr_output.csv
+2025-04-15 21:13:23 - QualitEnrScraper_qualit-enr - INFO - Scraping company details from: https://www.qualit-enr.org/entreprises/ecotech-installation/
+2025-04-15 21:13:24 - QualitEnrScraper_qualit-enr - INFO - Request #84 to https://www.qualit-enr.org/entreprises/ecotech-installation/ completed in 1.55s - Status: 200 - Size: 103261 bytes
+2025-04-15 21:13:24 - QualitEnrScraper_qualit-enr - INFO - Saving data to CSV file: data/qualit-enr_output.csv
+2025-04-15 21:13:24 - QualitEnrScraper_qualit-enr - INFO - Scraping company details from: https://www.qualit-enr.org/entreprises/infinergy-soleilex/
+2025-04-15 21:13:26 - QualitEnrScraper_qualit-enr - INFO - Request #85 to https://www.qualit-enr.org/entreprises/infinergy-soleilex/ completed in 1.61s - Status: 200 - Size: 99478 bytes
+2025-04-15 21:13:26 - QualitEnrScraper_qualit-enr - INFO - Saving data to CSV file: data/qualit-enr_output.csv
+2025-04-15 21:13:26 - QualitEnrScraper_qualit-enr - INFO - Scraping company details from: https://www.qualit-enr.org/entreprises/evoli/
+2025-04-15 21:13:28 - QualitEnrScraper_qualit-enr - INFO - Request #86 to https://www.qualit-enr.org/entreprises/evoli/ completed in 1.37s - Status: 200 - Size: 98617 bytes
+2025-04-15 21:13:28 - QualitEnrScraper_qualit-enr - INFO - Saving data to CSV file: data/qualit-enr_output.csv
+2025-04-15 21:13:28 - QualitEnrScraper_qualit-enr - INFO - Scraping company details from: https://www.qualit-enr.org/entreprises/bj-energies/
+2025-04-15 21:13:29 - QualitEnrScraper_qualit-enr - INFO - Request #87 to https://www.qualit-enr.org/entreprises/bj-energies/ completed in 1.38s - Status: 200 - Size: 107845 bytes
+2025-04-15 21:13:29 - QualitEnrScraper_qualit-enr - INFO - Saving data to CSV file: data/qualit-enr_output.csv
+2025-04-15 21:13:29 - QualitEnrScraper_qualit-enr - INFO - Scraping company details from: https://www.qualit-enr.org/entreprises/master-pose/
+2025-04-15 21:13:31 - QualitEnrScraper_qualit-enr - INFO - Request #88 to https://www.qualit-enr.org/entreprises/master-pose/ completed in 2.12s - Status: 200 - Size: 99496 bytes
+2025-04-15 21:13:31 - QualitEnrScraper_qualit-enr - INFO - Saving data to CSV file: data/qualit-enr_output.csv
+2025-04-15 21:13:31 - QualitEnrScraper_qualit-enr - INFO - Scraping company details from: https://www.qualit-enr.org/entreprises/mlg/
+2025-04-15 21:13:33 - QualitEnrScraper_qualit-enr - INFO - Request #89 to https://www.qualit-enr.org/entreprises/mlg/ completed in 1.59s - Status: 200 - Size: 97210 bytes
+2025-04-15 21:13:33 - QualitEnrScraper_qualit-enr - INFO - Saving data to CSV file: data/qualit-enr_output.csv
+2025-04-15 21:13:33 - QualitEnrScraper_qualit-enr - INFO - Scraping company details from: https://www.qualit-enr.org/entreprises/austral-solar-france/
+2025-04-15 21:13:34 - QualitEnrScraper_qualit-enr - INFO - Request #90 to https://www.qualit-enr.org/entreprises/austral-solar-france/ completed in 1.59s - Status: 200 - Size: 103638 bytes
+2025-04-15 21:13:34 - QualitEnrScraper_qualit-enr - INFO - Saving data to CSV file: data/qualit-enr_output.csv
+2025-04-15 21:13:34 - QualitEnrScraper_qualit-enr - INFO - Scraping company details from: https://www.qualit-enr.org/entreprises/cme-2/
+2025-04-15 21:13:36 - QualitEnrScraper_qualit-enr - INFO - Request #91 to https://www.qualit-enr.org/entreprises/cme-2/ completed in 1.53s - Status: 200 - Size: 97370 bytes
+2025-04-15 21:13:36 - QualitEnrScraper_qualit-enr - INFO - Saving data to CSV file: data/qualit-enr_output.csv
+2025-04-15 21:13:36 - QualitEnrScraper_qualit-enr - INFO - Scraping company details from: https://www.qualit-enr.org/entreprises/tanguy-legrans-sas/
+2025-04-15 21:13:38 - QualitEnrScraper_qualit-enr - INFO - Request #92 to https://www.qualit-enr.org/entreprises/tanguy-legrans-sas/ completed in 1.73s - Status: 200 - Size: 96867 bytes
+2025-04-15 21:13:38 - QualitEnrScraper_qualit-enr - INFO - Saving data to CSV file: data/qualit-enr_output.csv
+2025-04-15 21:13:38 - QualitEnrScraper_qualit-enr - INFO - Scraping company details from: https://www.qualit-enr.org/entreprises/eocube/
+2025-04-15 21:13:40 - QualitEnrScraper_qualit-enr - INFO - Request #93 to https://www.qualit-enr.org/entreprises/eocube/ completed in 1.71s - Status: 200 - Size: 96626 bytes
+2025-04-15 21:13:40 - QualitEnrScraper_qualit-enr - INFO - Saving data to CSV file: data/qualit-enr_output.csv
+2025-04-15 21:13:40 - QualitEnrScraper_qualit-enr - INFO - Scraping company details from: https://www.qualit-enr.org/entreprises/groupe-solar-energie/
+2025-04-15 21:13:41 - QualitEnrScraper_qualit-enr - INFO - Request #94 to https://www.qualit-enr.org/entreprises/groupe-solar-energie/ completed in 1.62s - Status: 200 - Size: 96911 bytes
+2025-04-15 21:13:41 - QualitEnrScraper_qualit-enr - INFO - Saving data to CSV file: data/qualit-enr_output.csv
+2025-04-15 21:13:41 - QualitEnrScraper_qualit-enr - INFO - Scraping company details from: https://www.qualit-enr.org/entreprises/sc-company/
+2025-04-15 21:13:43 - QualitEnrScraper_qualit-enr - INFO - Request #95 to https://www.qualit-enr.org/entreprises/sc-company/ completed in 1.63s - Status: 200 - Size: 96691 bytes
+2025-04-15 21:13:43 - QualitEnrScraper_qualit-enr - INFO - Saving data to CSV file: data/qualit-enr_output.csv
+2025-04-15 21:13:43 - QualitEnrScraper_qualit-enr - INFO - Scraping company details from: https://www.qualit-enr.org/entreprises/bethel-energie/
+2025-04-15 21:13:44 - QualitEnrScraper_qualit-enr - INFO - Request #96 to https://www.qualit-enr.org/entreprises/bethel-energie/ completed in 1.44s - Status: 200 - Size: 99605 bytes
+2025-04-15 21:13:44 - QualitEnrScraper_qualit-enr - INFO - Saving data to CSV file: data/qualit-enr_output.csv
+2025-04-15 21:13:44 - QualitEnrScraper_qualit-enr - INFO - Scraping company details from: https://www.qualit-enr.org/entreprises/onix/
+2025-04-15 21:13:46 - QualitEnrScraper_qualit-enr - INFO - Request #97 to https://www.qualit-enr.org/entreprises/onix/ completed in 1.63s - Status: 200 - Size: 98593 bytes
+2025-04-15 21:13:46 - QualitEnrScraper_qualit-enr - INFO - Saving data to CSV file: data/qualit-enr_output.csv
+2025-04-15 21:13:46 - QualitEnrScraper_qualit-enr - INFO - Scraping company details from: https://www.qualit-enr.org/entreprises/tectosolar/
+2025-04-15 21:13:48 - QualitEnrScraper_qualit-enr - INFO - Request #98 to https://www.qualit-enr.org/entreprises/tectosolar/ completed in 2.09s - Status: 200 - Size: 96702 bytes
+2025-04-15 21:13:48 - QualitEnrScraper_qualit-enr - INFO - Saving data to CSV file: data/qualit-enr_output.csv
+2025-04-15 21:13:48 - QualitEnrScraper_qualit-enr - INFO - Scraping company details from: https://www.qualit-enr.org/entreprises/octopus-energy-france/
+2025-04-15 21:13:50 - QualitEnrScraper_qualit-enr - INFO - Request #99 to https://www.qualit-enr.org/entreprises/octopus-energy-france/ completed in 1.49s - Status: 200 - Size: 98496 bytes
+2025-04-15 21:13:50 - QualitEnrScraper_qualit-enr - INFO - Saving data to CSV file: data/qualit-enr_output.csv
+2025-04-15 21:13:50 - QualitEnrScraper_qualit-enr - INFO - Scraping company details from: https://www.qualit-enr.org/entreprises/lumelasol/
+2025-04-15 21:13:51 - QualitEnrScraper_qualit-enr - INFO - Request #100 to https://www.qualit-enr.org/entreprises/lumelasol/ completed in 1.47s - Status: 200 - Size: 101996 bytes
+2025-04-15 21:13:51 - QualitEnrScraper_qualit-enr - INFO - Saving data to CSV file: data/qualit-enr_output.csv
+2025-04-15 21:13:51 - QualitEnrScraper_qualit-enr - INFO - Scraping company details from: https://www.qualit-enr.org/entreprises/ad-energie/
+2025-04-15 21:13:53 - QualitEnrScraper_qualit-enr - INFO - Request #101 to https://www.qualit-enr.org/entreprises/ad-energie/ completed in 1.77s - Status: 200 - Size: 104359 bytes
+2025-04-15 21:13:53 - QualitEnrScraper_qualit-enr - INFO - Saving data to CSV file: data/qualit-enr_output.csv
+2025-04-15 21:13:53 - QualitEnrScraper_qualit-enr - INFO - Page 2/1 completed - 20 companies found
+2025-04-15 21:13:53 - QualitEnrScraper_qualit-enr - INFO - Completed scrape for installateurs-photovoltaique/75 - 40 total companies
+2025-04-15 21:13:53 - QualitEnrScraper_qualit-enr - INFO - Starting scrape for category: installateurs-pompe-a-chaleur, region: 75
+2025-04-15 21:13:53 - QualitEnrScraper_qualit-enr - INFO - Scraping page 1 for installateurs-pompe-a-chaleur in region 75
+2025-04-15 21:14:21 - QualitEnrScraper_qualit-enr - INFO - Request #102 to https://www.qualit-enr.org/annuaire/page/1/?type=installateurs-pompe-a-chaleur&ville=75&city&lat&lng&loc completed in 28.28s - Status: 200 - Size: 286109 bytes
+2025-04-15 21:14:22 - QualitEnrScraper_qualit-enr - INFO - Found 137 results, estimated 7 pages
+2025-04-15 21:14:22 - QualitEnrScraper_qualit-enr - INFO - Scraping company details from: https://www.qualit-enr.org/entreprises/vr-pac/
+2025-04-15 21:14:23 - QualitEnrScraper_qualit-enr - INFO - Request #103 to https://www.qualit-enr.org/entreprises/vr-pac/ completed in 1.51s - Status: 200 - Size: 97274 bytes
+2025-04-15 21:14:23 - QualitEnrScraper_qualit-enr - INFO - Saving data to CSV file: data/qualit-enr_output.csv
+2025-04-15 21:14:23 - QualitEnrScraper_qualit-enr - INFO - Scraping company details from: https://www.qualit-enr.org/entreprises/alef-energie/
+2025-04-15 21:14:25 - QualitEnrScraper_qualit-enr - INFO - Request #104 to https://www.qualit-enr.org/entreprises/alef-energie/ completed in 1.48s - Status: 200 - Size: 101391 bytes
+2025-04-15 21:14:25 - QualitEnrScraper_qualit-enr - INFO - Saving data to CSV file: data/qualit-enr_output.csv
+2025-04-15 21:14:25 - QualitEnrScraper_qualit-enr - INFO - Scraping company details from: https://www.qualit-enr.org/entreprises/ltc-froid-et-cvc/
+2025-04-15 21:14:26 - QualitEnrScraper_qualit-enr - INFO - Request #105 to https://www.qualit-enr.org/entreprises/ltc-froid-et-cvc/ completed in 1.42s - Status: 200 - Size: 98277 bytes
+2025-04-15 21:14:26 - QualitEnrScraper_qualit-enr - INFO - Saving data to CSV file: data/qualit-enr_output.csv
+2025-04-15 21:14:26 - QualitEnrScraper_qualit-enr - INFO - Scraping company details from: https://www.qualit-enr.org/entreprises/brk-groupe/
+2025-04-15 21:14:28 - QualitEnrScraper_qualit-enr - INFO - Request #106 to https://www.qualit-enr.org/entreprises/brk-groupe/ completed in 1.52s - Status: 200 - Size: 97363 bytes
+2025-04-15 21:14:28 - QualitEnrScraper_qualit-enr - INFO - Saving data to CSV file: data/qualit-enr_output.csv
+2025-04-15 21:14:28 - QualitEnrScraper_qualit-enr - INFO - Scraping company details from: https://www.qualit-enr.org/entreprises/delver-companie/
+2025-04-15 21:14:29 - QualitEnrScraper_qualit-enr - INFO - Request #107 to https://www.qualit-enr.org/entreprises/delver-companie/ completed in 1.35s - Status: 200 - Size: 97474 bytes
+2025-04-15 21:14:29 - QualitEnrScraper_qualit-enr - INFO - Saving data to CSV file: data/qualit-enr_output.csv
+2025-04-15 21:14:29 - QualitEnrScraper_qualit-enr - INFO - Scraping company details from: https://www.qualit-enr.org/entreprises/lionel-brot/
+2025-04-15 21:14:31 - QualitEnrScraper_qualit-enr - INFO - Request #108 to https://www.qualit-enr.org/entreprises/lionel-brot/ completed in 1.54s - Status: 200 - Size: 99503 bytes
+2025-04-15 21:14:31 - QualitEnrScraper_qualit-enr - INFO - Saving data to CSV file: data/qualit-enr_output.csv
+2025-04-15 21:14:31 - QualitEnrScraper_qualit-enr - INFO - Scraping company details from: https://www.qualit-enr.org/entreprises/bm-action/
+2025-04-15 21:14:32 - QualitEnrScraper_qualit-enr - INFO - Request #109 to https://www.qualit-enr.org/entreprises/bm-action/ completed in 1.47s - Status: 200 - Size: 97364 bytes
+2025-04-15 21:14:32 - QualitEnrScraper_qualit-enr - INFO - Saving data to CSV file: data/qualit-enr_output.csv
+2025-04-15 21:14:32 - QualitEnrScraper_qualit-enr - INFO - Scraping company details from: https://www.qualit-enr.org/entreprises/renolev/
+2025-04-15 21:14:34 - QualitEnrScraper_qualit-enr - INFO - Request #110 to https://www.qualit-enr.org/entreprises/renolev/ completed in 1.91s - Status: 200 - Size: 101613 bytes
+2025-04-15 21:14:34 - QualitEnrScraper_qualit-enr - INFO - Saving data to CSV file: data/qualit-enr_output.csv
+2025-04-15 21:14:34 - QualitEnrScraper_qualit-enr - INFO - Scraping company details from: https://www.qualit-enr.org/entreprises/societe-nationale-disolation-thermique/
+2025-04-15 21:14:36 - QualitEnrScraper_qualit-enr - INFO - Request #111 to https://www.qualit-enr.org/entreprises/societe-nationale-disolation-thermique/ completed in 1.56s - Status: 200 - Size: 98809 bytes
+2025-04-15 21:14:36 - QualitEnrScraper_qualit-enr - INFO - Saving data to CSV file: data/qualit-enr_output.csv
+2025-04-15 21:14:36 - QualitEnrScraper_qualit-enr - INFO - Scraping company details from: https://www.qualit-enr.org/entreprises/ecodurable/
+2025-04-15 21:14:37 - QualitEnrScraper_qualit-enr - INFO - Request #112 to https://www.qualit-enr.org/entreprises/ecodurable/ completed in 1.41s - Status: 200 - Size: 101688 bytes
+2025-04-15 21:14:37 - QualitEnrScraper_qualit-enr - INFO - Saving data to CSV file: data/qualit-enr_output.csv
+2025-04-15 21:14:37 - QualitEnrScraper_qualit-enr - INFO - Scraping company details from: https://www.qualit-enr.org/entreprises/ads/
+2025-04-15 21:14:39 - QualitEnrScraper_qualit-enr - INFO - Request #113 to https://www.qualit-enr.org/entreprises/ads/ completed in 1.45s - Status: 200 - Size: 98646 bytes
+2025-04-15 21:14:39 - QualitEnrScraper_qualit-enr - INFO - Saving data to CSV file: data/qualit-enr_output.csv
+2025-04-15 21:14:39 - QualitEnrScraper_qualit-enr - INFO - Scraping company details from: https://www.qualit-enr.org/entreprises/genius-energie-environnement/
+2025-04-15 21:14:41 - QualitEnrScraper_qualit-enr - INFO - Request #114 to https://www.qualit-enr.org/entreprises/genius-energie-environnement/ completed in 1.89s - Status: 200 - Size: 97757 bytes
+2025-04-15 21:14:41 - QualitEnrScraper_qualit-enr - INFO - Saving data to CSV file: data/qualit-enr_output.csv
+2025-04-15 21:14:41 - QualitEnrScraper_qualit-enr - INFO - Scraping company details from: https://www.qualit-enr.org/entreprises/eco-patrimoine/
+2025-04-15 21:14:42 - QualitEnrScraper_qualit-enr - INFO - Request #115 to https://www.qualit-enr.org/entreprises/eco-patrimoine/ completed in 1.61s - Status: 200 - Size: 97738 bytes
+2025-04-15 21:14:42 - QualitEnrScraper_qualit-enr - INFO - Saving data to CSV file: data/qualit-enr_output.csv
+2025-04-15 21:14:42 - QualitEnrScraper_qualit-enr - INFO - Scraping company details from: https://www.qualit-enr.org/entreprises/b2a-energie/
+2025-04-15 21:14:44 - QualitEnrScraper_qualit-enr - INFO - Request #116 to https://www.qualit-enr.org/entreprises/b2a-energie/ completed in 1.87s - Status: 200 - Size: 97392 bytes
+2025-04-15 21:14:44 - QualitEnrScraper_qualit-enr - INFO - Saving data to CSV file: data/qualit-enr_output.csv
+2025-04-15 21:14:44 - QualitEnrScraper_qualit-enr - INFO - Scraping company details from: https://www.qualit-enr.org/entreprises/sarl-france-pole-isolation/
+2025-04-15 21:14:46 - QualitEnrScraper_qualit-enr - INFO - Request #117 to https://www.qualit-enr.org/entreprises/sarl-france-pole-isolation/ completed in 1.51s - Status: 200 - Size: 98484 bytes
+2025-04-15 21:14:46 - QualitEnrScraper_qualit-enr - INFO - Saving data to CSV file: data/qualit-enr_output.csv
+2025-04-15 21:14:46 - QualitEnrScraper_qualit-enr - INFO - Scraping company details from: https://www.qualit-enr.org/entreprises/frisuntec/
+2025-04-15 21:14:48 - QualitEnrScraper_qualit-enr - INFO - Request #118 to https://www.qualit-enr.org/entreprises/frisuntec/ completed in 1.95s - Status: 200 - Size: 97338 bytes
+2025-04-15 21:14:48 - QualitEnrScraper_qualit-enr - INFO - Saving data to CSV file: data/qualit-enr_output.csv
+2025-04-15 21:14:48 - QualitEnrScraper_qualit-enr - INFO - Scraping company details from: https://www.qualit-enr.org/entreprises/artisans-multiservices-des-yvelines/
+2025-04-15 21:14:50 - QualitEnrScraper_qualit-enr - INFO - Request #119 to https://www.qualit-enr.org/entreprises/artisans-multiservices-des-yvelines/ completed in 1.94s - Status: 200 - Size: 101010 bytes
+2025-04-15 21:14:50 - QualitEnrScraper_qualit-enr - INFO - Saving data to CSV file: data/qualit-enr_output.csv
+2025-04-15 21:14:50 - QualitEnrScraper_qualit-enr - INFO - Scraping company details from: https://www.qualit-enr.org/entreprises/icbtp/
+2025-04-15 21:14:51 - QualitEnrScraper_qualit-enr - INFO - Request #120 to https://www.qualit-enr.org/entreprises/icbtp/ completed in 1.51s - Status: 200 - Size: 97252 bytes
+2025-04-15 21:14:51 - QualitEnrScraper_qualit-enr - INFO - Saving data to CSV file: data/qualit-enr_output.csv
+2025-04-15 21:14:51 - QualitEnrScraper_qualit-enr - INFO - Scraping company details from: https://www.qualit-enr.org/entreprises/ims-energies/
+2025-04-15 21:14:53 - QualitEnrScraper_qualit-enr - INFO - Request #121 to https://www.qualit-enr.org/entreprises/ims-energies/ completed in 1.65s - Status: 200 - Size: 97405 bytes
+2025-04-15 21:14:53 - QualitEnrScraper_qualit-enr - INFO - Saving data to CSV file: data/qualit-enr_output.csv
+2025-04-15 21:14:53 - QualitEnrScraper_qualit-enr - INFO - Scraping company details from: https://www.qualit-enr.org/entreprises/nrjia-partner-solutions/
+2025-04-15 21:14:55 - QualitEnrScraper_qualit-enr - INFO - Request #122 to https://www.qualit-enr.org/entreprises/nrjia-partner-solutions/ completed in 1.74s - Status: 200 - Size: 97802 bytes
+2025-04-15 21:14:55 - QualitEnrScraper_qualit-enr - INFO - Saving data to CSV file: data/qualit-enr_output.csv
+2025-04-15 21:14:55 - QualitEnrScraper_qualit-enr - INFO - Page 1/7 completed - 20 companies found
+2025-04-15 21:14:55 - QualitEnrScraper_qualit-enr - INFO - Scraping page 2 for installateurs-pompe-a-chaleur in region 75
+2025-04-15 21:15:16 - QualitEnrScraper_qualit-enr - INFO - Request #123 to https://www.qualit-enr.org/annuaire/page/2/?type=installateurs-pompe-a-chaleur&ville=75&city&lat&lng&loc completed in 21.03s - Status: 200 - Size: 295240 bytes
+2025-04-15 21:15:16 - QualitEnrScraper_qualit-enr - INFO - Scraping company details from: https://www.qualit-enr.org/entreprises/energy/
+2025-04-15 21:15:18 - QualitEnrScraper_qualit-enr - INFO - Request #124 to https://www.qualit-enr.org/entreprises/energy/ completed in 1.56s - Status: 200 - Size: 99293 bytes
+2025-04-15 21:15:18 - QualitEnrScraper_qualit-enr - INFO - Saving data to CSV file: data/qualit-enr_output.csv
+2025-04-15 21:15:18 - QualitEnrScraper_qualit-enr - INFO - Scraping company details from: https://www.qualit-enr.org/entreprises/mcy-eco-energie/
+2025-04-15 21:15:21 - QualitEnrScraper_qualit-enr - INFO - Request #125 to https://www.qualit-enr.org/entreprises/mcy-eco-energie/ completed in 2.99s - Status: 200 - Size: 98241 bytes
+2025-04-15 21:15:21 - QualitEnrScraper_qualit-enr - INFO - Saving data to CSV file: data/qualit-enr_output.csv
+2025-04-15 21:15:21 - QualitEnrScraper_qualit-enr - INFO - Scraping company details from: https://www.qualit-enr.org/entreprises/gel-pac-pv/
+2025-04-15 21:15:24 - QualitEnrScraper_qualit-enr - INFO - Request #126 to https://www.qualit-enr.org/entreprises/gel-pac-pv/ completed in 3.40s - Status: 200 - Size: 98134 bytes
+2025-04-15 21:15:24 - QualitEnrScraper_qualit-enr - INFO - Saving data to CSV file: data/qualit-enr_output.csv
+2025-04-15 21:15:24 - QualitEnrScraper_qualit-enr - INFO - Scraping company details from: https://www.qualit-enr.org/entreprises/cpe-confort/
+2025-04-15 21:15:26 - QualitEnrScraper_qualit-enr - INFO - Request #127 to https://www.qualit-enr.org/entreprises/cpe-confort/ completed in 1.81s - Status: 200 - Size: 98269 bytes
+2025-04-15 21:15:26 - QualitEnrScraper_qualit-enr - INFO - Saving data to CSV file: data/qualit-enr_output.csv
+2025-04-15 21:15:26 - QualitEnrScraper_qualit-enr - INFO - Scraping company details from: https://www.qualit-enr.org/entreprises/lato/
+2025-04-15 21:15:29 - QualitEnrScraper_qualit-enr - INFO - Request #128 to https://www.qualit-enr.org/entreprises/lato/ completed in 2.91s - Status: 200 - Size: 99385 bytes
+2025-04-15 21:15:29 - QualitEnrScraper_qualit-enr - INFO - Saving data to CSV file: data/qualit-enr_output.csv
+2025-04-15 21:15:29 - QualitEnrScraper_qualit-enr - INFO - Scraping company details from: https://www.qualit-enr.org/entreprises/env-centric/
+2025-04-15 21:15:31 - QualitEnrScraper_qualit-enr - INFO - Request #129 to https://www.qualit-enr.org/entreprises/env-centric/ completed in 1.96s - Status: 200 - Size: 98161 bytes
+2025-04-15 21:15:31 - QualitEnrScraper_qualit-enr - INFO - Saving data to CSV file: data/qualit-enr_output.csv
+2025-04-15 21:15:31 - QualitEnrScraper_qualit-enr - INFO - Scraping company details from: https://www.qualit-enr.org/entreprises/eco-free-energy/
+2025-04-15 21:15:33 - QualitEnrScraper_qualit-enr - INFO - Request #130 to https://www.qualit-enr.org/entreprises/eco-free-energy/ completed in 1.95s - Status: 200 - Size: 98235 bytes
+2025-04-15 21:15:33 - QualitEnrScraper_qualit-enr - INFO - Saving data to CSV file: data/qualit-enr_output.csv
+2025-04-15 21:15:33 - QualitEnrScraper_qualit-enr - INFO - Scraping company details from: https://www.qualit-enr.org/entreprises/karre-green-air/
+2025-04-15 21:15:37 - QualitEnrScraper_qualit-enr - INFO - Request #131 to https://www.qualit-enr.org/entreprises/karre-green-air/ completed in 4.33s - Status: 200 - Size: 97468 bytes
+2025-04-15 21:15:37 - QualitEnrScraper_qualit-enr - INFO - Saving data to CSV file: data/qualit-enr_output.csv
+2025-04-15 21:15:37 - QualitEnrScraper_qualit-enr - INFO - Scraping company details from: https://www.qualit-enr.org/entreprises/novarenovation/
+2025-04-15 21:15:39 - QualitEnrScraper_qualit-enr - INFO - Request #132 to https://www.qualit-enr.org/entreprises/novarenovation/ completed in 1.64s - Status: 200 - Size: 97453 bytes
+2025-04-15 21:15:39 - QualitEnrScraper_qualit-enr - INFO - Saving data to CSV file: data/qualit-enr_output.csv
+2025-04-15 21:15:39 - QualitEnrScraper_qualit-enr - INFO - Scraping company details from: https://www.qualit-enr.org/entreprises/t-g-s-p/
+2025-04-15 21:15:41 - QualitEnrScraper_qualit-enr - INFO - Request #133 to https://www.qualit-enr.org/entreprises/t-g-s-p/ completed in 1.41s - Status: 200 - Size: 97178 bytes
+2025-04-15 21:15:41 - QualitEnrScraper_qualit-enr - INFO - Saving data to CSV file: data/qualit-enr_output.csv
+2025-04-15 21:15:41 - QualitEnrScraper_qualit-enr - INFO - Scraping company details from: https://www.qualit-enr.org/entreprises/bs-fluides/
+2025-04-15 21:15:42 - QualitEnrScraper_qualit-enr - INFO - Request #134 to https://www.qualit-enr.org/entreprises/bs-fluides/ completed in 1.40s - Status: 200 - Size: 99568 bytes
+2025-04-15 21:15:42 - QualitEnrScraper_qualit-enr - INFO - Saving data to CSV file: data/qualit-enr_output.csv
+2025-04-15 21:15:42 - QualitEnrScraper_qualit-enr - INFO - Scraping company details from: https://www.qualit-enr.org/entreprises/pro-energy-systeme/
+2025-04-15 21:15:43 - QualitEnrScraper_qualit-enr - INFO - Request #135 to https://www.qualit-enr.org/entreprises/pro-energy-systeme/ completed in 1.20s - Status: 200 - Size: 97660 bytes
+2025-04-15 21:15:43 - QualitEnrScraper_qualit-enr - INFO - Saving data to CSV file: data/qualit-enr_output.csv
+2025-04-15 21:15:43 - QualitEnrScraper_qualit-enr - INFO - Scraping company details from: https://www.qualit-enr.org/entreprises/greensy/
+2025-04-15 21:15:45 - QualitEnrScraper_qualit-enr - INFO - Request #136 to https://www.qualit-enr.org/entreprises/greensy/ completed in 1.38s - Status: 200 - Size: 97425 bytes
+2025-04-15 21:15:45 - QualitEnrScraper_qualit-enr - INFO - Saving data to CSV file: data/qualit-enr_output.csv
+2025-04-15 21:15:45 - QualitEnrScraper_qualit-enr - INFO - Scraping company details from: https://www.qualit-enr.org/entreprises/climatik-eco-energy/
+2025-04-15 21:15:46 - QualitEnrScraper_qualit-enr - INFO - Request #137 to https://www.qualit-enr.org/entreprises/climatik-eco-energy/ completed in 1.14s - Status: 200 - Size: 103999 bytes
+2025-04-15 21:15:46 - QualitEnrScraper_qualit-enr - INFO - Saving data to CSV file: data/qualit-enr_output.csv
+2025-04-15 21:15:46 - QualitEnrScraper_qualit-enr - INFO - Scraping company details from: https://www.qualit-enr.org/entreprises/ecowave/
+2025-04-15 21:15:47 - QualitEnrScraper_qualit-enr - INFO - Request #138 to https://www.qualit-enr.org/entreprises/ecowave/ completed in 1.25s - Status: 200 - Size: 102178 bytes
+2025-04-15 21:15:47 - QualitEnrScraper_qualit-enr - INFO - Saving data to CSV file: data/qualit-enr_output.csv
+2025-04-15 21:15:47 - QualitEnrScraper_qualit-enr - INFO - Scraping company details from: https://www.qualit-enr.org/entreprises/dsm/
+2025-04-15 21:15:49 - QualitEnrScraper_qualit-enr - INFO - Request #139 to https://www.qualit-enr.org/entreprises/dsm/ completed in 1.67s - Status: 200 - Size: 97338 bytes
+2025-04-15 21:15:49 - QualitEnrScraper_qualit-enr - INFO - Saving data to CSV file: data/qualit-enr_output.csv
+2025-04-15 21:15:49 - QualitEnrScraper_qualit-enr - INFO - Scraping company details from: https://www.qualit-enr.org/entreprises/easychauff/
+2025-04-15 21:15:50 - QualitEnrScraper_qualit-enr - INFO - Request #140 to https://www.qualit-enr.org/entreprises/easychauff/ completed in 1.32s - Status: 200 - Size: 101507 bytes
+2025-04-15 21:15:50 - QualitEnrScraper_qualit-enr - INFO - Saving data to CSV file: data/qualit-enr_output.csv
+2025-04-15 21:15:50 - QualitEnrScraper_qualit-enr - INFO - Scraping company details from: https://www.qualit-enr.org/entreprises/avance-energie/
+2025-04-15 21:15:52 - QualitEnrScraper_qualit-enr - INFO - Request #141 to https://www.qualit-enr.org/entreprises/avance-energie/ completed in 1.38s - Status: 200 - Size: 99580 bytes
+2025-04-15 21:15:52 - QualitEnrScraper_qualit-enr - INFO - Saving data to CSV file: data/qualit-enr_output.csv
+2025-04-15 21:15:52 - QualitEnrScraper_qualit-enr - INFO - Scraping company details from: https://www.qualit-enr.org/entreprises/gns-energie/
+2025-04-15 21:15:53 - QualitEnrScraper_qualit-enr - INFO - Request #142 to https://www.qualit-enr.org/entreprises/gns-energie/ completed in 1.27s - Status: 200 - Size: 99502 bytes
+2025-04-15 21:15:53 - QualitEnrScraper_qualit-enr - INFO - Saving data to CSV file: data/qualit-enr_output.csv
+2025-04-15 21:15:53 - QualitEnrScraper_qualit-enr - INFO - Scraping company details from: https://www.qualit-enr.org/entreprises/renovener/
+2025-04-15 21:15:54 - QualitEnrScraper_qualit-enr - INFO - Request #143 to https://www.qualit-enr.org/entreprises/renovener/ completed in 1.26s - Status: 200 - Size: 97461 bytes
+2025-04-15 21:15:54 - QualitEnrScraper_qualit-enr - INFO - Saving data to CSV file: data/qualit-enr_output.csv
+2025-04-15 21:15:54 - QualitEnrScraper_qualit-enr - INFO - Page 2/1 completed - 20 companies found
+2025-04-15 21:15:54 - QualitEnrScraper_qualit-enr - INFO - Completed scrape for installateurs-pompe-a-chaleur/75 - 40 total companies
